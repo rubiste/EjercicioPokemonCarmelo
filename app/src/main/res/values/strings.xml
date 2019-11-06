@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EjercicioPokemonCarmelo</string>
+    <string name="action_settings">Settings</string>
+    <string name="pokemon">POKEMON</string>
+    <string name="type">Type</string>
+    <string name="title_activity_insertar_pokemon">InsertarPokemon</string>
+    <string name="chooseImage">Choose Image</string>
+    <string name="insertarPokemon">Add a Pokemon</string>
+
+
+    <!--Insertar Pokemon -->
+    <string name="insertName">Insert Pokemon Name</string>
+    <string name="insertType">Insert Pokemon Type</string>
+    <string name="savePokemon">Save Pokemon</string>
+
+    <!--Errors-->
+    <string name="typeError">You have to pick a type!!</string>
+    <string name="nameError">You have to write the Pokemon name!!</string>
+    <string name="photoError">You have to pick a photo!!</string>
+    <string name="title_activity_edit_delete">EditDeleteActivity</string>
+    <string name="title_activity_pokemon_selected">PokemonSelected</string>
+
+    <!--Pokemon Selected -->
+    <string name="editPokemon">Edit Pokemon</string>
+    <string name="deletePokemon">Delete Pokemon</string>
+    <string name="title_activity_edit_pokemon">EditPokemonActivity</string>
+</resources>
